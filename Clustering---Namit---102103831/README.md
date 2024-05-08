@@ -1,4 +1,4 @@
-# Clustring---Yuvraj---102153041
+# Clustring---Namit---102103831
 
 # Pycaret for Clustering
 ##  Kmeans
